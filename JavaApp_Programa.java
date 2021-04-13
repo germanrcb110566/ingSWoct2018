@@ -1,4 +1,4 @@
-/*
+/* Linea a modificar
  * Programa ejemplo para la materia de Ingenieria de Software
  * El objetivo es manejar el control de las verisones del programa
  * a travez de una plataforma de manejo de codigo fuente.
